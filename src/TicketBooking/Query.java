@@ -142,6 +142,7 @@ public class Query {
         return mostExpensiveTicket;  // En pahalı bileti döndür
     }
    
-    }
+   }
+    
      
 
